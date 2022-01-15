@@ -9,8 +9,8 @@
 Voici un sommaire de l'organisation de ce ReadMe:
 
 - [Le Projet](#le-projet)
-- [Comment télécharger et exécuter?](#compilation-du-code--lancement-des-tests-)
-- [Réponses aux questions](#réponses-aux-questions-)
+- [Comment télécharger et exécuter?](#comment-télécharger-et-exécuter?)
+- [Réponses aux questions](#réponses-aux-questions-mathématiques)
 - [Auteurs](#les-auteurs)
 
 ---
