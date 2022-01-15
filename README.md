@@ -22,7 +22,7 @@ Le but de ce projet est de découvrir les tables de hashage à travers le codage
 Pour cela, un sujet avec des indications claires et quelques questions de mathématiques nous a été fourni.
 Après la réponse à ces questions, nous avons été aptes à réaliser tout la partie liée au codage et présente dans ce git.
 
-[Retour Au Début](#SAE-1.02:-Algorithmique-avancée)
+[Retour Au Début](#sommaire)
 
 ---
 ## Comment télécharger et exécuter?
@@ -48,7 +48,7 @@ Ensuite, entrez la commande `./lancement.sh`, et le programme démarre.
 
 **Vous avez maintenant affiché sur votre écran les résultats du programme.**
 
-[Retour Au Début](#SAE-1.02:-Algorithmique-avancée)
+[Retour Au Début](#sommaire)
 
 ---
 
@@ -76,7 +76,7 @@ Pour convertir une chaîne `s = Ck ... Co` en entier, il faudrait effectuer `k(k
 
 Après exécution du programme, on remarque qu'il y a `14445 mots` différents dans le fichier "LeRougeEtLeNoir.txt". 
 
-[Retour Au Début](#SAE-1.02:-Algorithmique-avancée)
+[Retour Au Début](#sommaire)
 
 ---
 
@@ -87,7 +87,7 @@ Après exécution du programme, on remarque qu'il y a `14445 mots` différents d
 - Kim HARRIBAUD - kim.harribaud@etu.umontpellier.fr
 - Ewan TREGUIER - ewan.treguier@etu.umontpellier.fr
 
-[Retour Au Début](#SAE-1.02:-Algorithmique-avancée)
+[Retour Au Début](#sommaire)
 
 ---
 
