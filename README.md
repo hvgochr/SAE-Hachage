@@ -9,7 +9,7 @@
 Voici un sommaire de l'organisation de ce ReadMe:
 
 - [Le Projet](#le-projet)
-- [Comment télécharger et exécuter?](#comment-télécharger-et-exécuter?)
+- [Comment télécharger et exécuter?](#comment-télécharger)
 - [Réponses aux questions](#réponses-aux-questions-mathématiques)
 - [Auteurs](#les-auteurs)
 
@@ -25,7 +25,7 @@ Après la réponse à ces questions, nous avons été aptes à réaliser tout la
 [Retour Au Début](#découverte-des-tables-de-hashage)
 
 ---
-## Comment télécharger et exécuter?
+## Comment télécharger?
 
 >**Étape 1:**
 
