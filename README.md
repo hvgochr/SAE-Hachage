@@ -9,7 +9,7 @@
 Voici un sommaire de l'organisation de ce ReadMe:
 
 - [Le Projet](#le-projet)
-- [Comment télécharger et exécuter?](#comment-télécharger)
+- [Comment télécharger?](#comment-télécharger)
 - [Réponses aux questions](#réponses-aux-questions-mathématiques)
 - [Auteurs](#les-auteurs)
 
@@ -22,7 +22,7 @@ Le but de ce projet est de découvrir les tables de hashage à travers le codage
 Pour cela, un sujet avec des indications claires et quelques questions de mathématiques nous a été fourni.
 Après la réponse à ces questions, nous avons été aptes à réaliser tout la partie liée au codage et présente dans ce git.
 
-[Retour Au Début](#découverte-des-tables-de-hashage)
+[Retour Au Début](#sae102:-algorithmique-avancée)
 
 ---
 ## Comment télécharger?
