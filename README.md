@@ -48,7 +48,7 @@ Ensuite, entrez la commande `./lancement.sh`, et le programme démarre.
 
 **Vous avez maintenant affiché sur votre écran les résultats du programme.**
 
-[Retour Au Début](#découverte-des-tables-de-hashage)
+[Retour Au Début](#sae-102-algorithmique-avancée)
 
 ---
 
@@ -76,7 +76,7 @@ Pour convertir une chaîne `s = Ck ... Co` en entier, il faudrait effectuer `k(k
 
 Après exécution du programme, on remarque qu'il y a `14445 mots` différents dans le fichier "LeRougeEtLeNoir.txt". 
 
-[Retour Au Début](#découverte-des-tables-de-hashage)
+[Retour Au Début](#sae-102-algorithmique-avancée)
 
 ---
 
@@ -87,7 +87,7 @@ Après exécution du programme, on remarque qu'il y a `14445 mots` différents d
 - Kim HARRIBAUD - kim.harribaud@etu.umontpellier.fr
 - Ewan TREGUIER - ewan.treguier@etu.umontpellier.fr
 
-[Retour Au Début](#découverte-des-tables-de-hashage)
+[Retour Au Début](#sae-102-algorithmique-avancéee)
 
 ---
 
