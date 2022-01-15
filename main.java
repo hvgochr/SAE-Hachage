@@ -23,6 +23,6 @@ public class main {
             d.contient(motS);
         }
         long fin = System.currentTimeMillis();
-        System.out.println("temps total : " + (fin - deb) + " ms");
+        System.out.println("Temps total : " + (fin - deb) + " ms");
     }
 }
